@@ -1,6 +1,12 @@
-# OOAD-PROJECT
-Java mini project using swing framework mvc
-Team Details:
-AKASH KUMAR PES1UG20CS027
-AAMIR IQBAL PES1UG21CS801
-ABHISHEK DEVKATE PES1UG21CS802
+
+# OOADJ Miniproject 2023
+
+
+
+
+## Team Details:
+
+- Akash Kumar PES1UG20CS027
+- Aamir Iqbal PES1UG21CS801
+- Abhishek Devkate PES1UG21CS802
+
